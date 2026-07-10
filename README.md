@@ -52,8 +52,8 @@ We propose **Evita**, a unified RGB-E backbone specifically tailored for dense p
 
 ## Highlights
 
-- **N-ImageNetV2.** We address the large-scale misalignment between RGB and event images in N-ImageNet.
 - **Unified architecture.** We build the first unified backbone specifically designed for RGB-E tasks.
+- - **N-ImageNetV2.** We address the large-scale misalignment between RGB and event images in N-ImageNet.
 - **Flexible training.** Evita supports a "multi-representation pretraining, single-representation fine-tuning" mechanism.
 - **Efficient inference.** Evita discards redundant two-stream designs and enables lightweight, efficient, end-to-end inference.
 
