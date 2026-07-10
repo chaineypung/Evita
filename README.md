@@ -6,7 +6,7 @@
 
 <p align="center">
   <big>
-    <strong>Chenxu Peng</strong><sup>2,1</sup> &nbsp;&nbsp;
+    <strong>Chenxu Peng</strong> &nbsp;&nbsp;
     <strong>Chongtian Zhou</strong><sup>2,1</sup> &nbsp;&nbsp;
     <strong>Dicheng Liu</strong><sup>2,1</sup> &nbsp;&nbsp;
     <strong>Bowen Yin</strong><sup>2</sup>
