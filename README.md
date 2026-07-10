@@ -22,7 +22,9 @@
   <br>
 </p>
 
-</div> [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+</div> 
+
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](#citation)
 [![Task](https://img.shields.io/badge/Task-RGB--Event%20Dense%20Parsing-4c8eda.svg)](#)
 
