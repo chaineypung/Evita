@@ -5,15 +5,17 @@
 <h1 align="center">Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing</h1>
 
 <p align="center">
-  <strong>Chenxu Peng</strong><sup>2,1</sup> &nbsp;&nbsp;
-  <strong>Chongtian Zhou</strong><sup>2,1</sup> &nbsp;&nbsp;
-  <strong>Dicheng Liu</strong><sup>2,1</sup> &nbsp;&nbsp;
-  <strong>Bowen Yin</strong><sup>2</sup>
-  <br>
-  <strong>Yimian Dai</strong><sup>1,2,3</sup> &nbsp;&nbsp;
-  <strong>Xialei Liu</strong><sup>1,2,3</sup> &nbsp;&nbsp;
-  <strong>Ming-Ming Cheng</strong><sup>1,2,3</sup> &nbsp;&nbsp;
-  <strong>Xiang Li</strong><sup>1,2,3,*</sup>
+  <big>
+    <strong>Chenxu Peng</strong><sup>2,1</sup> &nbsp;&nbsp;
+    <strong>Chongtian Zhou</strong><sup>2,1</sup> &nbsp;&nbsp;
+    <strong>Dicheng Liu</strong><sup>2,1</sup> &nbsp;&nbsp;
+    <strong>Bowen Yin</strong><sup>2</sup>
+    <br>
+    <strong>Yimian Dai</strong><sup>1,2,3</sup> &nbsp;&nbsp;
+    <strong>Xialei Liu</strong><sup>1,2,3</sup> &nbsp;&nbsp;
+    <strong>Ming-Ming Cheng</strong><sup>1,2,3</sup> &nbsp;&nbsp;
+    <strong>Xiang Li</strong><sup>1,2,3,*</sup>
+  </big>
 </p>
 <p align="center">
   <sup>1</sup>NKIARI, Shenzhen Futian &nbsp;&nbsp;
