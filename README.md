@@ -41,7 +41,7 @@
 ## Contents
 
 - [Highlights](#highlights)
-- [Overview](#overview)
+- [Evita](#Evita)
 - [News](#news)
 - [Installation](#installation)
 - [Pretrained Weights](#pretrained-weights)
