@@ -7,20 +7,20 @@
 <p align="center">
   <big>
     <strong>Chenxu Peng</strong> &nbsp;&nbsp;
-    <strong>Chongtian Zhou</strong><sup>2,1</sup> &nbsp;&nbsp;
-    <strong>Dicheng Liu</strong><sup>2,1</sup> &nbsp;&nbsp;
-    <strong>Bowen Yin</strong><sup>2</sup>
+    <strong>Chongtian Zhou</strong> &nbsp;&nbsp;
+    <strong>Dicheng Liu</strong> &nbsp;&nbsp;
+    <strong>Bowen Yin</strong>
     <br>
-    <strong>Yimian Dai</strong><sup>1,2,3</sup> &nbsp;&nbsp;
-    <strong>Xialei Liu</strong><sup>1,2,3</sup> &nbsp;&nbsp;
-    <strong>Ming-Ming Cheng</strong><sup>1,2,3</sup> &nbsp;&nbsp;
-    <strong>Xiang Li</strong><sup>1,2,3,*</sup>
+    <strong>Yimian Dai</strong> &nbsp;&nbsp;
+    <strong>Xialei Liu</strong> &nbsp;&nbsp;
+    <strong>Ming-Ming Cheng</strong> &nbsp;&nbsp;
+    <strong>Xiang Li</strong><sup>*</sup>
   </big>
 </p>
 <p align="center">
-  <sup>1</sup>NKIARI, Shenzhen Futian &nbsp;&nbsp;
-  <sup>2</sup>VCIP, CS, Nankai University &nbsp;&nbsp;
-  <sup>3</sup>AAIS, Nankai University
+  NKIARI, Shenzhen Futian &nbsp;&nbsp;
+  VCIP, CS, Nankai University &nbsp;&nbsp;
+  AAIS, Nankai University
 </p>
 
 [![HomePage](https://img.shields.io/badge/-HomePage-4c8eda.svg)](https://chaineypung.github.io/evita)
