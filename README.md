@@ -75,6 +75,7 @@ We propose **Evita**, a unified RGB-E backbone specifically tailored for dense p
 
 ## News
 
+- [x] Release training and evaluation code.
 - [x] Release DeLiVER dataset weights.
 - [x] Release DDD17 and DSEC dataset weights.
 - [x] Release Evita pretrained weights.
