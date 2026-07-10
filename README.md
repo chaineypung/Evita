@@ -59,7 +59,7 @@ We propose **Evita**, a unified RGB-E backbone specifically tailored for dense p
 
 ## Overview
 
-### Architecture
+### Evita
 
 <p align="center">
   <a href="figs/fig3.pdf">
