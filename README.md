@@ -28,6 +28,16 @@
 
 </div> 
 
+## TLDR
+
+- We propose **Evita**, a unified RGB-E backbone specifically tailored for dense parsing. With our **N-ImageNetV2** and **custom pretraining**, Evita mitigates harmonic-geometric discrepancies and adapts to diverse event formats for an optimal accuracy-latency balance.
+
+<p align="center">
+  <a href="figs/fig1.pdf">
+    <img src="figs/fig1.png" width="95%" alt="Core contributions of Evita">
+  </a>
+</p>
+
 ## Contents
 
 - [Highlights](#highlights)
@@ -39,16 +49,6 @@
 - [DDD17 and DSEC Training and Evaluation](#ddd17-and-dsec-training-and-evaluation)
 - [Visualization](#visualization)
 - [Citation](#citation)
-
-## TLDR
-
-- We propose **Evita**, a unified RGB-E backbone specifically tailored for dense parsing. With our **N-ImageNetV2** and **custom pretraining**, Evita mitigates harmonic-geometric discrepancies and adapts to diverse event formats for an optimal accuracy-latency balance.
-
-<p align="center">
-  <a href="figs/fig1.pdf">
-    <img src="figs/fig1.png" width="95%" alt="Core contributions of Evita">
-  </a>
-</p>
 
 ## Highlights
 
