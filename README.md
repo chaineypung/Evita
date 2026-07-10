@@ -22,9 +22,8 @@
   <br>
 </p>
 
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](#citation)
 [![HomePage](https://img.shields.io/badge/-HomePage-4c8eda.svg)](https://chaineypung.github.io/evita)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](#citation)
 
 </div> 
 
