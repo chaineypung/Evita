@@ -42,7 +42,7 @@
 
 ## TLDR
 
-We propose **Evita**, a unified RGB-E backbone specifically tailored for dense parsing. With our **N-ImageNetV2** and **custom pretraining**, Evita mitigates harmonic-geometric discrepancies and adapts to diverse event formats for an optimal accuracy-latency balance.
+- We propose **Evita**, a unified RGB-E backbone specifically tailored for dense parsing. With our **N-ImageNetV2** and **custom pretraining**, Evita mitigates harmonic-geometric discrepancies and adapts to diverse event formats for an optimal accuracy-latency balance.
 
 <p align="center">
   <a href="figs/fig1.pdf">
@@ -59,7 +59,7 @@ We propose **Evita**, a unified RGB-E backbone specifically tailored for dense p
 
 ## Evita
 
-Overview of the proposed Evita. (a) The overall symmetric intertwined hierarchical backbone. (b) The detailed structure of the Evita block, enabling joint modality optimization. (c) The parallel routing mechanism integrating (d) Geometric Parallax Rectification and (e) Harmonic Spectral Resonance to achieve robust cross-modal feature alignment and structural frequency injection. The Transient Global Routing layer effectively captures dynamic long-range dependencies by leveraging these structurally-aligned features as kinematic anchors.
+- Overview of the proposed Evita. (a) The overall symmetric intertwined hierarchical backbone. (b) The detailed structure of the Evita block, enabling joint modality optimization. (c) The parallel routing mechanism integrating (d) Geometric Parallax Rectification and (e) Harmonic Spectral Resonance to achieve robust cross-modal feature alignment and structural frequency injection. The Transient Global Routing layer effectively captures dynamic long-range dependencies by leveraging these structurally-aligned features as kinematic anchors.
 
 <p align="center">
   <a href="figs/fig3.pdf">
