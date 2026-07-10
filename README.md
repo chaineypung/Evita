@@ -5,21 +5,20 @@
 <h1 align="center">Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing</h1>
 
 <p align="center">
-  Chenxu Peng<sup>2,1</sup> &nbsp;&nbsp;
-  Chongtian Zhou<sup>2,1</sup> &nbsp;&nbsp;
-  Dicheng Liu<sup>2,1</sup> &nbsp;&nbsp;
-  Bowen Yin<sup>2</sup>
+  <strong>Chenxu Peng</strong><sup>2,1</sup> &nbsp;&nbsp;
+  <strong>Chongtian Zhou</strong><sup>2,1</sup> &nbsp;&nbsp;
+  <strong>Dicheng Liu</strong><sup>2,1</sup> &nbsp;&nbsp;
+  <strong>Bowen Yin</strong><sup>2</sup>
   <br>
-  Yimian Dai<sup>1,2,3</sup> &nbsp;&nbsp;
-  Xialei Liu<sup>1,2,3</sup> &nbsp;&nbsp;
-  Ming-Ming Cheng<sup>1,2,3</sup> &nbsp;&nbsp;
-  Xiang Li<sup>1,2,3,*</sup>
+  <strong>Yimian Dai</strong><sup>1,2,3</sup> &nbsp;&nbsp;
+  <strong>Xialei Liu</strong><sup>1,2,3</sup> &nbsp;&nbsp;
+  <strong>Ming-Ming Cheng</strong><sup>1,2,3</sup> &nbsp;&nbsp;
+  <strong>Xiang Li</strong><sup>1,2,3,*</sup>
 </p>
 <p align="center">
-  1 NKIARI, Shenzhen Futian &nbsp;&nbsp;
-  2 VCIP, CS, Nankai University &nbsp;&nbsp;
-  3 AAIS, Nankai University
-  <br>
+  <sup>1</sup>NKIARI, Shenzhen Futian &nbsp;&nbsp;
+  <sup>2</sup>VCIP, CS, Nankai University &nbsp;&nbsp;
+  <sup>3</sup>AAIS, Nankai University
 </p>
 
 [![HomePage](https://img.shields.io/badge/-HomePage-4c8eda.svg)](https://chaineypung.github.io/evita)
