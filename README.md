@@ -57,9 +57,9 @@ We propose **Evita**, a unified RGB-E backbone specifically tailored for dense p
 - **Flexible training.** Evita supports a "multi-representation pretraining, single-representation fine-tuning" mechanism.
 - **Efficient inference.** Evita discards redundant two-stream designs and enables lightweight, efficient, end-to-end inference.
 
-## Overview
+## Evita
 
-### Evita
+Overview of the proposed Evita. (a) The overall symmetric intertwined hierarchical backbone. (b) The detailed structure of the Evita block, enabling joint modality optimization. (c) The parallel routing mechanism integrating (d) Geometric Parallax Rectification and (e) Harmonic Spectral Resonance to achieve robust cross-modal feature alignment and structural frequency injection. The Transient Global Routing layer effectively captures dynamic long-range dependencies by leveraging these structurally-aligned features as kinematic anchors.
 
 <p align="center">
   <a href="figs/fig3.pdf">
