@@ -67,6 +67,8 @@ TLDR: We propose **Evita**, a unified RGB-E backbone specifically tailored for d
 
 ## Visualization
 
+- Qualitative comparison on the DELIVER dataset under diverse adverse weather conditions. \texttt{Evita} exhibits superior robustness in reconstructing fine-grained structures and maintaining semantic consistency, particularly in low-light and high-occlusion scenarios, outperforming competing architectures.
+
 <p align="center">
   <a href="figs/fig4.pdf">
     <img src="figs/fig4.png" width="95%" alt="Qualitative visualization">
