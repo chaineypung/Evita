@@ -67,12 +67,6 @@ We propose **Evita**, a unified RGB-E backbone specifically tailored for dense p
   </a>
 </p>
 
-### N-ImageNetV2
-
-<p align="center">
-  <img src="figs/fig2.png" width="95%" alt="N-ImageNetV2 dataset">
-</p>
-
 ## News
 
 - [x] Release training and evaluation code.
