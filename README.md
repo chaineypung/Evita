@@ -216,7 +216,7 @@ This repository is released under the Apache-2.0 license. For commercial use, pl
 
 ## Citation
 
-If you use the N-ImageNetV2 dataset or the Evita model, please cite the following work:
+If you use the Evita model or the N-ImageNetV2 dataset, please cite the following work:
 
 ```bibtex
 @inproceedings{peng2026weaving,
