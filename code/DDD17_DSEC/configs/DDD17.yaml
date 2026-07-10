@@ -1,0 +1,36 @@
+DEVICE: 'cuda:0'
+NUM_WORKERS: 4
+SEED_NUM: 1
+
+DATASET:
+  name: 'DDD17Event'
+  path: '/defaultShare/archive/pengchenxu/OminiXFusion/input/DDD17/ddd17_seg/data' # Replace with your own path
+  require_paired_data: True
+  classes: 6
+  event_representation: 'voxel_grid'
+  fixed_duration: True
+  delta_t: 50
+  nr_bins: 10
+  img_chnls: 1
+  data_type: 'fusion'
+  img_size: [200, 346]
+
+MODEL:
+  name: 'Evita_Nano'
+  pretrained: "model_best_new.pth.tar"
+  event_rep: 'None'
+  fuse: 'exp001'
+
+TRAIN:
+  lr_scheduler: 'pcx'
+  avg_top_k: 2
+  warmup_iters: 500
+  batch_size: 12
+  lr_init: 0.00007 # 0.0002
+  num_epochs: 80
+  save_every_n_epochs: 20
+  log_dir: 'log/DDD17/test'
+
+EVAL:
+  batch_size: 16
+  weight_path: "best_model_Evita_N_ddd17.pth"

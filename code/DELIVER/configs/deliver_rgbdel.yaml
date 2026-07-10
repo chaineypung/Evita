@@ -1,0 +1,56 @@
+DEVICE          : cuda                                                    # device used for training and evaluation (cpu, cuda, cuda0, cuda1, ...)
+SAVE_DIR        : '/defaultShare/archive/pengchenxu/DELIVER/vis'          # output folder name used for saving the model, logs and inference results
+
+MODEL:
+  NAME          : Evita                                           # name of the model you are using
+  BACKBONE      : Evita_Large                                     # model variant
+  PRETRAINED    : "Evita-L-3ch.pth.tar"                           # backbone model's weight 
+  RESUME        : ''                                              # checkpoint file 
+
+DATASET:
+  NAME          : DELIVER                                         
+  ROOT          : '/defaultShare/archive/pengchenxu/OminiXFusion/input/DELIVER'      # dataset root path
+  IGNORE_LABEL  : 255
+  MODALS        : ['img', 'event']
+
+TRAIN:
+  IMAGE_SIZE    : [1024, 1024]    # training image size in (h, w)
+  BATCH_SIZE    : 4               # batch size used to train
+  EPOCHS        : 300             # number of epochs to train
+  EVAL_START    : 150             # evaluation interval start
+  EVAL_INTERVAL : 1               # evaluation interval during training
+  AMP           : true            # use AMP in training
+  AMP_TYPE      : 'bfloat16'
+  DDP           : true            # use DDP training
+
+LOSS:
+  NAME          : OhemCrossEntropy # loss function name 
+  CLS_WEIGHTS   : false            # use class weights in loss calculation
+
+OPTIMIZER:
+  NAME          : adamw           # optimizer name
+  LR            : 0.00006         # initial learning rate used in optimizer
+  WEIGHT_DECAY  : 0.01            # decay rate used in optimizer
+
+SCHEDULER:
+  NAME          : warmuppolylr    # scheduler name
+  POWER         : 0.9             # scheduler power
+  WARMUP        : 10              # warmup epochs used in scheduler
+  WARMUP_RATIO  : 0.1             # warmup ratio
+  
+
+EVAL:
+  MODEL_PATH    : "best_model.pth"
+  IMAGE_SIZE    : [1024, 1024]                               # evaluation image size in (h, w)        
+  BATCH_SIZE    : 4                                          # batch size used to train               
+  MSF: 
+    ENABLE      : true                                       # multi-scale and flip evaluation  
+    FLIP        : false                                      # use flip in evaluation  
+    SCALES      : [0.5, 0.75, 1.0, 1.25, 1.5, 1.75]          # scales used in MSF evaluation           
+
+
+TEST:
+  MODEL_PATH    : "best_model.pth"                           # trained model file path
+  FILE          : '/defaultShare/archive/pengchenxu/OminiXFusion/input/DELIVER'                      
+  IMAGE_SIZE    : [1024, 1024]                            # inference image size in (h, w)
+  OVERLAY       : false                                   # save the overlay result (image_alpha+label_alpha)
