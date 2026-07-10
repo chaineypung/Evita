@@ -16,9 +16,9 @@
   Xiang Li<sup>1,2,3,*</sup>
 </p>
 <p align="center">
-  <sup>1</sup>NKIARI, Shenzhen Futian &nbsp;&nbsp;
-  <sup>2</sup>VCIP, CS, Nankai University &nbsp;&nbsp;
-  <sup>3</sup>AAIS, Nankai University
+  1 NKIARI, Shenzhen Futian &nbsp;&nbsp;
+  2 VCIP, CS, Nankai University &nbsp;&nbsp;
+  3 AAIS, Nankai University
   <br>
 </p>
 
