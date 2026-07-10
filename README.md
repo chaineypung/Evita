@@ -65,6 +65,14 @@ TLDR: We propose **Evita**, a unified RGB-E backbone specifically tailored for d
   </a>
 </p>
 
+## Visualization
+
+<p align="center">
+  <a href="figs/fig4.pdf">
+    <img src="figs/fig4.png" width="95%" alt="Qualitative visualization">
+  </a>
+</p>
+
 ## News
 
 - [x] Release training and evaluation code.
@@ -188,14 +196,6 @@ python evaluate.py
 | Evita-S | 75.07 | [Google Drive](https://drive.google.com/file/d/1De9Cp1W71kHHF3GWpq42KdP5_AUkZZOb/view?usp=sharing) |
 | Evita-B | 76.08 | [Google Drive](https://drive.google.com/file/d/1mpGfPJbZ_ip_EvrjZ9e9U2BKXabUzeKd/view?usp=sharing) |
 | Evita-L | 76.80 | [Google Drive](https://drive.google.com/file/d/1RLVMqthXb4BSoXERErMZLNAfsIzW0GNE/view?usp=sharing) |
-
-## Visualization
-
-<p align="center">
-  <a href="figs/fig4.pdf">
-    <img src="figs/fig4.png" width="95%" alt="Qualitative visualization">
-  </a>
-</p>
 
 ## Acknowledgements
 
