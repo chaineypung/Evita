@@ -145,12 +145,12 @@ CUDA_VISIBLE_DEVICES=0 python tools/val_mm.py --cfg configs/deliver_rgbdel.yaml
 
 | Model | mIoU | Weight |
 | :---: | :---: | :--- |
-| Evita-P | 48.21 | [Google Drive](https://drive.google.com/drive/folders/17Xj7j-5XY_ApduG2pldz_8kGjjK3eZn0?usp=sharing) |
-| Evita-N | 52.91 | [Google Drive](https://drive.google.com/drive/folders/1KUHWlNMIy3LUgOUISSSUmhsH4D9MPZkD?usp=sharing) |
-| Evita-T | 55.01 | [Google Drive](https://drive.google.com/drive/folders/1RlIjKdXoX2IYEiJ0ZuVecEFMlp2D5QLu?usp=sharing) |
-| Evita-S | 56.79 | [Google Drive](https://drive.google.com/drive/folders/1RtRVEdy4HPdtBUQXxEVgQAe3nuoVkFPu?usp=sharing) |
-| Evita-B | 58.02 | [Google Drive](https://drive.google.com/drive/folders/1J6Cl-b9SBhsWn2BPEFEcqNIEMvCSeJ9n?usp=sharing) |
-| Evita-L | 59.57 | [Google Drive](https://drive.google.com/drive/folders/1e0skwjFnYrDs7z9SpcAz7NUhUS-SPr9-?usp=sharing) |
+| Evita-P-DeLiVER | 48.21 | [Google Drive](https://drive.google.com/drive/folders/17Xj7j-5XY_ApduG2pldz_8kGjjK3eZn0?usp=sharing) |
+| Evita-N-DeLiVER | 52.91 | [Google Drive](https://drive.google.com/drive/folders/1KUHWlNMIy3LUgOUISSSUmhsH4D9MPZkD?usp=sharing) |
+| Evita-T-DeLiVER | 55.01 | [Google Drive](https://drive.google.com/drive/folders/1RlIjKdXoX2IYEiJ0ZuVecEFMlp2D5QLu?usp=sharing) |
+| Evita-S-DeLiVER | 56.79 | [Google Drive](https://drive.google.com/drive/folders/1RtRVEdy4HPdtBUQXxEVgQAe3nuoVkFPu?usp=sharing) |
+| Evita-B-DeLiVER | 58.02 | [Google Drive](https://drive.google.com/drive/folders/1J6Cl-b9SBhsWn2BPEFEcqNIEMvCSeJ9n?usp=sharing) |
+| Evita-L-DeLiVER | 59.57 | [Google Drive](https://drive.google.com/drive/folders/1e0skwjFnYrDs7z9SpcAz7NUhUS-SPr9-?usp=sharing) |
 
 ## DDD17 and DSEC Training and Evaluation
 
@@ -181,23 +181,23 @@ python evaluate.py
 
 | Model | mIoU | Weight |
 | :---: | :---: | :--- |
-| Evita-P | 71.26 | [Google Drive](https://drive.google.com/file/d/1v1Tmfs3FIJJ_wcMrQgscfsNdmVodenT1/view?usp=sharing) |
-| Evita-N | 74.84 | [Google Drive](https://drive.google.com/file/d/15WPEcqPPRZcRoNsmUdcNNPXU-9ikYPPr/view?usp=sharing) |
-| Evita-T | 77.04 | [Google Drive](https://drive.google.com/file/d/1eB6LI0ub4DXXsKW-RQW-wVicX5Tqsv4S/view?usp=sharing) |
-| Evita-S | 78.56 | [Google Drive](https://drive.google.com/file/d/1aUoSG3Adf-aSkX7Fs8ZsQxH-ESLnFiik/view?usp=sharing) |
-| Evita-B | 79.11 | [Google Drive](https://drive.google.com/file/d/1VESZsKrwF8MiNy_RwQz37Csk5EzojNML/view?usp=sharing) |
-| Evita-L | 80.12 | [Google Drive](https://drive.google.com/file/d/148TcjM-vVO5dEwo1P7H6v_gUJnPantdb/view?usp=sharing) |
+| Evita-P-DDD17 | 71.26 | [Google Drive](https://drive.google.com/file/d/1v1Tmfs3FIJJ_wcMrQgscfsNdmVodenT1/view?usp=sharing) |
+| Evita-N-DDD17 | 74.84 | [Google Drive](https://drive.google.com/file/d/15WPEcqPPRZcRoNsmUdcNNPXU-9ikYPPr/view?usp=sharing) |
+| Evita-T-DDD17 | 77.04 | [Google Drive](https://drive.google.com/file/d/1eB6LI0ub4DXXsKW-RQW-wVicX5Tqsv4S/view?usp=sharing) |
+| Evita-S-DDD17 | 78.56 | [Google Drive](https://drive.google.com/file/d/1aUoSG3Adf-aSkX7Fs8ZsQxH-ESLnFiik/view?usp=sharing) |
+| Evita-B-DDD17 | 79.11 | [Google Drive](https://drive.google.com/file/d/1VESZsKrwF8MiNy_RwQz37Csk5EzojNML/view?usp=sharing) |
+| Evita-L-DDD17 | 80.12 | [Google Drive](https://drive.google.com/file/d/148TcjM-vVO5dEwo1P7H6v_gUJnPantdb/view?usp=sharing) |
 
 ### DSEC Model Zoo
 
 | Model | mIoU | Weight |
 | :---: | :---: | :--- |
-| Evita-P | 65.55 | [Google Drive](https://drive.google.com/file/d/1A1frGGsxlao7TuIxo8JdSnQGsNAoTF7t/view?usp=sharing) |
-| Evita-N | 70.09 | [Google Drive](https://drive.google.com/file/d/1OS0k_V1KPG_zKJ5ZfqQFSnnSDWTSWWuA/view?usp=sharing) |
-| Evita-T | 73.90 | [Google Drive](https://drive.google.com/file/d/1rPER_XLeezDmnppd3CZkBgpucjdvcNSN/view?usp=sharing) |
-| Evita-S | 75.07 | [Google Drive](https://drive.google.com/file/d/1De9Cp1W71kHHF3GWpq42KdP5_AUkZZOb/view?usp=sharing) |
-| Evita-B | 76.08 | [Google Drive](https://drive.google.com/file/d/1mpGfPJbZ_ip_EvrjZ9e9U2BKXabUzeKd/view?usp=sharing) |
-| Evita-L | 76.80 | [Google Drive](https://drive.google.com/file/d/1RLVMqthXb4BSoXERErMZLNAfsIzW0GNE/view?usp=sharing) |
+| Evita-P-DSEC | 65.55 | [Google Drive](https://drive.google.com/file/d/1A1frGGsxlao7TuIxo8JdSnQGsNAoTF7t/view?usp=sharing) |
+| Evita-N-DSEC | 70.09 | [Google Drive](https://drive.google.com/file/d/1OS0k_V1KPG_zKJ5ZfqQFSnnSDWTSWWuA/view?usp=sharing) |
+| Evita-T-DSEC | 73.90 | [Google Drive](https://drive.google.com/file/d/1rPER_XLeezDmnppd3CZkBgpucjdvcNSN/view?usp=sharing) |
+| Evita-S-DSEC | 75.07 | [Google Drive](https://drive.google.com/file/d/1De9Cp1W71kHHF3GWpq42KdP5_AUkZZOb/view?usp=sharing) |
+| Evita-B-DSEC | 76.08 | [Google Drive](https://drive.google.com/file/d/1mpGfPJbZ_ip_EvrjZ9e9U2BKXabUzeKd/view?usp=sharing) |
+| Evita-L-DSEC | 76.80 | [Google Drive](https://drive.google.com/file/d/1RLVMqthXb4BSoXERErMZLNAfsIzW0GNE/view?usp=sharing) |
 
 ## Acknowledgements
 
