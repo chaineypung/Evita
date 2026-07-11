@@ -44,12 +44,12 @@ TLDR: We propose **Evita**, a unified RGB-E backbone specifically tailored for d
 
 - [Highlights](#highlights)
 - [Evita](#Evita)
+- [Visualization](#visualization)
 - [News](#news)
 - [Installation](#installation)
 - [Pretrained Weights](#pretrained-weights)
 - [DeLiVER Training and Evaluation](#deliver-training-and-evaluation)
 - [DDD17 and DSEC Training and Evaluation](#ddd17-and-dsec-training-and-evaluation)
-- [Visualization](#visualization)
 - [Citation](#citation)
 
 ## Highlights
