@@ -5,6 +5,10 @@
 <h1 align="center">Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing</h1>
 
 <p align="center">
+  <img src="figs/evita_multimodal_showcase.gif" width="100%" alt="EVITA Multimodal Perception">
+</p>
+
+<p align="center">
   <big>
     <strong>Chenxu Peng</strong> &nbsp;&nbsp;
     <strong>Chongtian Zhou</strong> &nbsp;&nbsp;
