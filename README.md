@@ -5,10 +5,6 @@
 <h1 align="center">Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing</h1>
 
 <p align="center">
-  <img src="figs/evita_multimodal_split_view.gif" width="100%" alt="EVITA Multimodal Perception">
-</p>
-
-<p align="center">
   <big>
     <strong>Chenxu Peng</strong> &nbsp;&nbsp;
     <strong>Chongtian Zhou</strong> &nbsp;&nbsp;
@@ -31,6 +27,10 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](#citation)
 
 </div> 
+
+<p align="center">
+  <img src="figs/evita_multimodal_split_view.gif" width="100%" alt="EVITA Multimodal Perception">
+</p>
 
 TLDR: We propose **Evita**, a unified RGB-E backbone specifically tailored for dense parsing. With our **N-ImageNetV2** and **custom pretraining**, Evita mitigates harmonic-geometric discrepancies and adapts to diverse event formats for an optimal accuracy-latency balance.
 
