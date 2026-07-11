@@ -104,14 +104,14 @@ Evita/
 
 ## Pretrained Weights
 
-| Model | 3-channel weight | 10-channel weight |
-| :---: | :--- | :--- |
-| Evita-P | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) |
-| Evita-N | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) |
-| Evita-T | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1RtNfEPIHeQbe0noGWJy4V73jKd7ojg3z/view?usp=sharing) |
-| Evita-S | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1RtNfEPIHeQbe0noGWJy4V73jKd7ojg3z/view?usp=sharing) |
-| Evita-B | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1KHo5ONGl8D_CHV0opu372_jhRbsgIANe/view?usp=sharing) |
-| Evita-L | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1f1XLOLCzoovb6IFFbexkLI86Tzb-tARg/view?usp=sharing) |
+| Model | Params | 3-channel weight | 10-channel weight |
+| :---: | :--- | :--- | :--- |
+| Evita-P | 1M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) |
+| Evita-N | 4M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) |
+| Evita-T | 6M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1RtNfEPIHeQbe0noGWJy4V73jKd7ojg3z/view?usp=sharing) |
+| Evita-S | 21M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1RtNfEPIHeQbe0noGWJy4V73jKd7ojg3z/view?usp=sharing) |
+| Evita-B | 33M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1KHo5ONGl8D_CHV0opu372_jhRbsgIANe/view?usp=sharing) |
+| Evita-L | 44M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1f1XLOLCzoovb6IFFbexkLI86Tzb-tARg/view?usp=sharing) |
 
 ## DeLiVER Training and Evaluation
 
