@@ -105,7 +105,7 @@ Evita/
 ## Pretrained Weights
 
 | Model | Params | 3-channel weight | 10-channel weight |
-| :---: | :--- | :--- | :--- |
+| :---: | :---: | :--- | :--- |
 | Evita-P | 1M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) |
 | Evita-N | 4M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) |
 | Evita-T | 6M | [Google Drive](https://drive.google.com/file/d/1CLlwCf-rq3weYx29EfACEEJMSzUv0O_N/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1RtNfEPIHeQbe0noGWJy4V73jKd7ojg3z/view?usp=sharing) |
