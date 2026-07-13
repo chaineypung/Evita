@@ -28,7 +28,7 @@
 </p>
 
 [![HomePage](https://img.shields.io/badge/-HomePage-4c8eda.svg)](https://chaineypung.github.io/evita)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](#citation)
+[![paper](https://img.shields.io/badge/arXiv-2607.09143-brown.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.09143)
 <a href='https://huggingface.co/chainey0521/Evita/tree/main'><img src='https://img.shields.io/badge/🤗-Model-blue.svg'></a>
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Framework-PyTorch-orange.svg" /></a>
 <a href="https://github.com/jamycheung/DELIVER/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" /></a>
